@@ -1,0 +1,9 @@
+{
+    "domain": "cowin",
+    "name": "CoWIN Vaccination Tracker",
+    "documentation": "https://github.com/vaidyasr/cowin_hass",
+    "dependencies": [],
+    "codeowners": ["@vaidyasr"],
+    "requirements": [ "cowin" ],
+    "version": "1.00.0"
+}
